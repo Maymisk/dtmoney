@@ -9,7 +9,7 @@ An application to help you keep track of your money.
 **This is version 2.0.**
 
 <a href="">Version 1.0</a>&nbsp;&nbsp;
-<a href="">Version 3.0</a>
+<a href="https://github.com/Maymisk/dtmoney3.0">Version 3.0</a>
 
 ## 🏃‍♂️ My journey
 
