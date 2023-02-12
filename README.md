@@ -6,7 +6,13 @@
 
 An application to help you keep track of your money.
 
+**This is version 2.0.**
+
+<a href="">Version 1.0</a>&nbsp;&nbsp;
+<a href="">Version 3.0</a>
+
 ## 🏃‍♂️ My journey
+
 
 This project was my first experience with styled components and the react context api. At the same time, I learned about fake APIs and custom hooks, which are two common patterns in front-end development.
 
